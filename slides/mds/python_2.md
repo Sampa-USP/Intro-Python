@@ -130,3 +130,14 @@ class Carro:
 ```
 
 ---
+# Exercício 3 : 
+- Crie uma classe chamada "Pessoa" que tenha os seguintes atributos:
+
+    - Nome
+    - Idade
+    - Profissão
+    - A classe deve ter um construtor que receba os valores iniciais para esses atributos e os atribua aos respectivos campos. Além disso, a classe deve ter um método chamado "cumprimentar" que imprime uma mensagem de saudação com o nome da pessoa.
+ ---
+# Exercício 4 :
+- Crie uma classe chamada "Retângulo" que tenha os seguintes atributos: largura e altura. A classe deve ter um método que calcule a área do retângulo e outro método que calcule o perímetro do retângulo.
+
