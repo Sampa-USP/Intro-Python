@@ -117,10 +117,10 @@ p.dizer_ola()  # Imprime "Olá, meu nome é João"
 
 Python tem uma grande variedade de bibliotecas disponíveis para resolver problemas específicos ou criar aplicativos. Aqui estão alguns exemplos populares:
 
-NumPy: para computação científica e análise de dados
-Pandas: para manipulação de dados e análise
-Matplotlib: para criação de gráficos e visualização de dados
-Flask: para criação de aplicativos web em Python
+  - NumPy: para computação científica e análise de dados
+  - Pandas: para manipulação de dados e análise
+  - Matplotlib: para criação de gráficos e visualização de dados
+  - Flask: para criação de aplicativos web em Python
 
 # Boas práticas de programação:
 
